@@ -1,2 +1,5 @@
 # aim-game
-Learn project
+## Using technology
+- HTML
+- CSS
+- JS
